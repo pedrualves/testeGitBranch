@@ -8,3 +8,8 @@
 * 2
 * 3
 
+```javascript
+function login(email,senha){
+	return true;
+}
+```
