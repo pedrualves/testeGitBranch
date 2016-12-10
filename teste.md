@@ -13,3 +13,9 @@ function groselhito(){
 	return false;
 }
 ```
+
+```javascript
+function login(email,senha){
+	return true;
+}
+```
